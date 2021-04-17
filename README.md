@@ -2,9 +2,7 @@
 
 ## I'm Atikul Islam Atik
 
-<img align='right' src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif">
-<!--
-**atikulislamatik/atikulislamatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="230">
 
 Here are some ideas to get you started:
 
