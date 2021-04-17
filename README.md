@@ -2,7 +2,7 @@
 
 ## I'm Atikul Islam Atik
 
-<img align='right' src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="250">
 
 Here are some ideas to get you started:
 
