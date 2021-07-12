@@ -4,8 +4,6 @@
 
 <img align='right' src="https://media.giphy.com/media/l0EwYKVLOfYpu0Bpu/giphy.gif" width="300">
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻
 - 🌱 I’m currently learning <a href="https://www.reactjs.org" target="_blank"> React </a> 👨‍💻
 - 💬 Ask me about React or any tech related stuff.
