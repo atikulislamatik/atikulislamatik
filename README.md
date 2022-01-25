@@ -4,8 +4,8 @@
 
 <img align='right' src="https://media.giphy.com/media/l0EwYKVLOfYpu0Bpu/giphy.gif" width="300">
 
-- 🔭 I’m currently working on <a href="https://www.ordervox.co.uk/" target="_blank"> OrderVox </a> 👨‍💻
-- 🌱 I’m currently learning <a href="https://www.reactjs.org" target="_blank"> React </a> 👨‍💻
+- 🔭 I’m currently working on <a href="https://syntaxive.tech/" target="_blank"> Syntaxive </a> 👨‍💻
+- 🌱 I’m currently learning <a href="https://www.reactjs.org" target="_blank"> React & Next </a> 👨‍💻
 - 💬 Ask me about React or any tech related stuff.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 - 📫 How to reach me : islam.atik15@gmail.com
